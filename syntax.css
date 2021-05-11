@@ -1,10 +1,12 @@
 h1{
+  font: "Roboto";
   font-size: 24px
 }
   
   
   
   p{
+  font: "Roboto";
   font-size: 18px;
   color: blue
 }
