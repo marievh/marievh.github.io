@@ -16,7 +16,7 @@ h2{
 }
 
 
-ul {
+#menu ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -27,7 +27,7 @@ ul {
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 
-li a {
+#menu li {
   list-style-type: none;
   display: block;
   color: #000;
@@ -37,7 +37,7 @@ li a {
 }
 
 /* Change the link color on hover */
-li a:hover {
+#menu li a:hover {
   background-color: #555;
   color: white;
 }
