@@ -1,20 +1,8 @@
-import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
-
-body {
-    font: 16px Roboto, sans-serif;
-}
-
-h1{
-  font-size: 24px
-}
-  
-h2{
-  font-size: 20px
-}
+/* Font */
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
 
 
-
-/* The sidebar menu */
+/* Sidebar menu */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
   width: 160px; /* Set the width of the sidebar */
@@ -51,4 +39,20 @@ h2{
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+
+
+
+
+/* Body text */
+body {
+    font: 16px Roboto;
+}
+
+h1{
+  font-size: 24px
+}
+  
+h2{
+  font-size: 20px
 }
