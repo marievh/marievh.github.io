@@ -21,9 +21,7 @@ h6{
 
 /* MAIN */
 main { 
-    padding-left: 0; /* Change this back to 200px */
-    padding-right: 0
-
+    padding-left: 200px;
 }
 
 
@@ -70,8 +68,8 @@ main {
 
 /* Two equal columns that sit next to each other */
 .column {
-  flex: 50%;
-  max-width: 50%;
+  flex: 40%;
+  max-width: 40%;
   padding: 0 4px 0 0;
 }
 
