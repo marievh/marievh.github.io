@@ -21,7 +21,9 @@ h6{
 
 /* MAIN */
 main { 
-    padding-left: 200px
+    padding-left: 200px;
+    padding-right: 0
+
 }
 
 
