@@ -1,9 +1,6 @@
-/* Font */
+/* FONTS */
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i');
 
-
-
-/* Body text */
 body {
     font: 16px Roboto;
 }
@@ -22,8 +19,10 @@ h6{
 
 
 /* MAIN */
-main { padding-left: 200px
+main { 
+    padding-left: 200px
 }
+
 
 /* SIDEBAR MENU */
 .sidenav {
@@ -38,7 +37,7 @@ main { padding-left: 200px
   padding-top: 20px;
 }
 
-/* The navigation menu links */
+/* Menu links */
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
@@ -47,16 +46,15 @@ main { padding-left: 200px
   display: block;
 }
 
-/* When you mouse over the navigation links, change their color */
 .sidenav a:hover {
   color: gray;
 }
 
 /* Style page content */
-.main {
-  margin-left: 200px; /* Same as the width of the sidebar */
-  padding: 0px 10px;
-}
+/* .main { */
+/* margin-left: 200px; /* Same as the width of the sidebar */
+/*  padding: 0px 10px; */
+/* } */
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
@@ -73,7 +71,7 @@ main { padding-left: 200px
   padding: 0 4px;
 }
 
-/* Create two equal columns that sit next to each other */
+/* Two equal columns that sit next to each other */
 .column {
   flex: 50%;
   max-width: 50%;
@@ -86,7 +84,7 @@ main { padding-left: 200px
   width: 100%;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+/* Responsive layout - On smaller screens, the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column {
     flex: 100%;
