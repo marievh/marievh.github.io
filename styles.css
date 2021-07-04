@@ -60,6 +60,11 @@ main {
 
 /* SOCIAL MEDIA LOGOS */
 
+.logo {
+     display: flex;
+     flex-wrap: wrap;
+}
+    
 .logo img {
    max-width: 16px;
 }
