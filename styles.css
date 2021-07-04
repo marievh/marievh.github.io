@@ -58,6 +58,14 @@ main {
 }
 
 
+/* SOCIAL MEDIA LOGOS */
+
+.logo {
+    background: transparent;
+    max-width: 80px
+}
+
+
 /* RESPONSIVE IMAGE GRID */
 
 .row {
