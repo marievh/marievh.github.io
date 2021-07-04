@@ -52,16 +52,16 @@ main {
 }
 
 /* Responsive layout - On smaller screens, the sidebar has less padding and smaller font size */
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+@media screen and (max-height: 400px) {
+  .sidenav {padding-top: 10px;}
+  .sidenav a {font-size: 15px;}
 }
 
 
 /* SOCIAL MEDIA LOGOS */
 
 .logo img {
-/*    max-width: 16px;   */
+   max-width: 16px;
 }
 
 
