@@ -98,21 +98,3 @@ main {
     max-width: 100%;
   }
 }
-
-
-
-/* FIGURES */
-
-figure {
-  padding: 1px;
-  margin: auto;
-}
-
-figcaption {
-  background-color: white;
-  color: gray;
-  text-transform: capitalize;
-  font-size: 10px;
-  padding: 2px;
-  text-align: center;
-}
