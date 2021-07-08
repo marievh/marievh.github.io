@@ -18,6 +18,10 @@ h6{
   text-align: center;
 }
 
+figcaption{
+    font-size: 10px
+}
+
 
 /* MAIN */
 main { 
