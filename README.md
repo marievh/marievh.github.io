@@ -1,1 +1,1 @@
-This is a playground where I'm learning html and css.
+I'm learning html and css through building this website.
