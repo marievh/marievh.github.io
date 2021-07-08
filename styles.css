@@ -30,7 +30,7 @@ main {
   left: 0;
   background-color: white;
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 70px;
+  padding-top: 40px;
 }
 
 /* Menu links */
@@ -58,7 +58,7 @@ main {
 .logo {
      display: flex;
      flex-wrap: wrap;
-      padding-top: 30px;
+      padding-top: 20px;
 
 }
     
