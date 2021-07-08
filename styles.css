@@ -16,14 +16,14 @@ h2{
 
 /* MAIN */
 main { 
-    padding-left: 200px;
+    padding-left: 220px;
 }
 
 
 /* SIDEBAR MENU */
 .sidenav {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 200px; /* Set the width of the sidebar */
+  width: 220px; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
   top: 0; /* Stay at the top */
@@ -36,7 +36,7 @@ main {
 /* Menu links */
 .sidenav a {
   padding: 6px 8px 6px 20px;
-  font-size: 12px;
+  font-size: 14px;
   text-decoration: none;
   text-transform: uppercase;
   color: darkgray;
