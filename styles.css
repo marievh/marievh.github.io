@@ -43,7 +43,7 @@ main {
   padding: 6px 8px 6px 20px;
   font-size: 15px;
   text-decoration: none;
-  text-transform: capitalize;
+  text-transform: uppercase;
   color: gray;
   display: block;
 }
