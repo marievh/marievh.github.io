@@ -96,6 +96,12 @@ main {
 }
 
 /* PHOTO PAGE */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px 0 0;
+}
+
 .photocolumn {
   flex: 49%;
   max-width: 49%;
